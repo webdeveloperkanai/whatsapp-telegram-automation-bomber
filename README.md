@@ -1,1 +1,1 @@
-# whatsapp-automation-bomber
+# whatsapp-telegram-automation-bomber
